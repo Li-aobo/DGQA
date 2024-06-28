@@ -1,5 +1,5 @@
 # DGQA
-This is the official pytorch implementation of CVPR2024 ["Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment"]([https://arxiv.org/abs/2003.08932](https://arxiv.org/abs/2405.04167)).
+This is the official pytorch implementation of CVPR2024 ["Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment"](https://arxiv.org/abs/2405.04167).
 
 ## Requirement
 + Python 3.6
